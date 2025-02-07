@@ -1,0 +1,159 @@
+[{
+  "_id": {
+    "$oid": "67a280b5880b89d449a79c3b"
+  },
+  "isbn": "324534253452345",
+  "title": "sadf",
+  "author": "asdf",
+  "publisher": "asdf",
+  "year": 34234,
+  "keywords": [
+    "deneme",
+    "deneme1",
+    "deneme2"
+  ],
+  "__v": 0,
+  "status": 0
+},
+{
+  "_id": {
+    "$oid": "67a280dc880b89d449a79c3e"
+  },
+  "isbn": "534253425345",
+  "title": "deneme",
+  "author": "batuhan",
+  "publisher": "deneme",
+  "year": 2024,
+  "keywords": [
+    "deneme",
+    "deneme1",
+    "deneme2"
+  ],
+  "__v": 0,
+  "status": 0,
+  "condition": "normal",
+  "section": "Roman",
+  "shelf": "4.kat"
+},
+{
+  "_id": {
+    "$oid": "67a280f5880b89d449a79c41"
+  },
+  "isbn": "5347895673457",
+  "title": "kitap",
+  "author": "baba",
+  "publisher": "karışık",
+  "year": 2942,
+  "keywords": [
+    "batu",
+    "karışık"
+  ],
+  "__v": 0,
+  "status": 0,
+  "condition": "normal",
+  "section": "Deneme2",
+  "shelf": "3.Raf"
+},
+{
+  "_id": {
+    "$oid": "67a2811d880b89d449a79c44"
+  },
+  "isbn": "2435342543",
+  "title": "hgudfoşjgdfksl",
+  "author": "hğsdfgjmöğ",
+  "publisher": "934324",
+  "year": 23431,
+  "keywords": [
+    "sadfgsdag",
+    "dene",
+    "iyi",
+    "kötü"
+  ],
+  "__v": 0,
+  "status": 0,
+  "condition": "damaged",
+  "section": "Deneme",
+  "shelf": "3.Raf"
+},
+{
+  "_id": {
+    "$oid": "67a281b8880b89d449a79c4f"
+  },
+  "isbn": "457830458934758",
+  "title": "batuhanın sihirli kitabı",
+  "author": "batuhan aydın",
+  "publisher": "sihirli kitap evi",
+  "year": 2025,
+  "keywords": [
+    "batuhan",
+    "sihirli",
+    "ev"
+  ],
+  "__v": 0,
+  "status": 1,
+  "condition": "lost",
+  "section": "Hikaye",
+  "shelf": "3.kat"
+},
+{
+  "_id": {
+    "$oid": "67a3e30de3b7883dd614ecf9"
+  },
+  "isbn": "4398534785483",
+  "title": "Masumiyet Müzesi",
+  "author": "Orhan Pamuk",
+  "publisher": " Yapı Kredi Yayınları",
+  "year": 2013,
+  "keywords": [
+    "orhan",
+    "pamuk",
+    "masumiyet",
+    "müze",
+    "roman"
+  ],
+  "status": 0,
+  "__v": 0,
+  "condition": "normal",
+  "section": "Dram",
+  "shelf": "2.kat"
+},
+{
+  "_id": {
+    "$oid": "67a3e33ae3b7883dd614ecfc"
+  },
+  "isbn": "9786051981833",
+  "title": "Gece Yarısı Kütüphanesi",
+  "author": " Matt Haig",
+  "publisher": "Domingo Yayınevi",
+  "year": 2020,
+  "keywords": [
+    "Gece",
+    "Yarısı",
+    "Kütüphanesi",
+    "roman"
+  ],
+  "status": 1,
+  "__v": 0,
+  "condition": "normal",
+  "section": "Dram",
+  "shelf": "2.kat"
+},
+{
+  "_id": {
+    "$oid": "67a54390235379e4f1465188"
+  },
+  "isbn": "9786059329132",
+  "title": "Yalnız Kalmak İçin Mükemmel Bir Gün",
+  "author": "Nanae Aoyama",
+  "publisher": "Beyaz Baykuş",
+  "year": 2024,
+  "condition": "normal",
+  "keywords": [
+    "yalnız",
+    "kalmak",
+    "garip",
+    "kitap"
+  ],
+  "status": 1,
+  "__v": 0
+}]

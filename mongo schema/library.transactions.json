@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "67a54b3edc29f56b519b53a0"
+  },
+  "book": {
+    "$oid": "67a3e30de3b7883dd614ecf9"
+  },
+  "member": {
+    "$oid": "67a3a59c43b5ef2f99a71b69"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:52:30.605Z"
+  },
+  "memberName": "Batuhan Aydın",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:52:42.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b43dc29f56b519b53aa"
+  },
+  "book": {
+    "$oid": "67a54390235379e4f1465188"
+  },
+  "member": {
+    "$oid": "67a5451e235379e4f14651e5"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:52:35.260Z"
+  },
+  "memberName": "Admin Kullanıcısı",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:52:43.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b47dc29f56b519b53b4"
+  },
+  "book": {
+    "$oid": "67a280dc880b89d449a79c3e"
+  },
+  "member": {
+    "$oid": "67a3cc6a8c1e51f256c3ba4e"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:52:39.104Z"
+  },
+  "memberName": "Deneme Kullanıcısı",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:52:44.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b49dc29f56b519b53be"
+  },
+  "book": {
+    "$oid": "67a2811d880b89d449a79c44"
+  },
+  "member": {
+    "$oid": "67a5451e235379e4f14651e5"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:52:41.904Z"
+  },
+  "memberName": "Admin Kullanıcısı",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:52:45.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b57dc29f56b519b53f2"
+  },
+  "book": {
+    "$oid": "67a3e30de3b7883dd614ecf9"
+  },
+  "member": {
+    "$oid": "67a3a59c43b5ef2f99a71b69"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:52:55.083Z"
+  },
+  "memberName": "Batuhan Aydın",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:52:57.157Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b5ddc29f56b519b5401"
+  },
+  "book": {
+    "$oid": "67a54390235379e4f1465188"
+  },
+  "member": {
+    "$oid": "67a5451e235379e4f14651e5"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:53:01.244Z"
+  },
+  "memberName": "Admin Kullanıcısı",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:53:05.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b60dc29f56b519b540b"
+  },
+  "book": {
+    "$oid": "67a3e30de3b7883dd614ecf9"
+  },
+  "member": {
+    "$oid": "67a3a59c43b5ef2f99a71b69"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:53:04.254Z"
+  },
+  "memberName": "Batuhan Aydın",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:53:06.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b69dc29f56b519b542f"
+  },
+  "book": {
+    "$oid": "67a3e30de3b7883dd614ecf9"
+  },
+  "member": {
+    "$oid": "67a3a59c43b5ef2f99a71b69"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:53:13.905Z"
+  },
+  "memberName": "Batuhan Aydın",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:53:14.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b70dc29f56b519b5446"
+  },
+  "book": {
+    "$oid": "67a3e30de3b7883dd614ecf9"
+  },
+  "member": {
+    "$oid": "67a3a59c43b5ef2f99a71b69"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:53:20.299Z"
+  },
+  "memberName": "Batuhan Aydın",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:53:23.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b82dc29f56b519b546b"
+  },
+  "book": {
+    "$oid": "67a280dc880b89d449a79c3e"
+  },
+  "member": {
+    "$oid": "67a3a59c43b5ef2f99a71b69"
+  },
+  "status": "iade edildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:53:38.689Z"
+  },
+  "memberName": "Batuhan Aydın",
+  "__v": 0,
+  "returnDate": {
+    "$date": "2025-02-06T23:53:39.326Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a54b88dc29f56b519b547a"
+  },
+  "book": {
+    "$oid": "67a54390235379e4f1465188"
+  },
+  "member": {
+    "$oid": "67a3a59c43b5ef2f99a71b69"
+  },
+  "status": "ödünç verildi",
+  "loanDate": {
+    "$date": "2025-02-06T23:53:44.024Z"
+  },
+  "memberName": "Batuhan Aydın",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a54b97dc29f56b519b5484"
+  },
+  "book": {
+    "$oid": "67a281b8880b89d449a79c4f"
+  },
+  "member": {
+    "$oid": "67a3cc6a8c1e51f256c3ba4e"
+  },
+  "reservationDate": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "status": "ödünç verildi",
+  "loanDate": {
+    "$date": "2025-02-03T00:04:35.601Z"
+  },
+  "memberName": "Deneme Kullanıcısı",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a54b9cdc29f56b519b548c"
+  },
+  "book": {
+    "$oid": "67a3e33ae3b7883dd614ecfc"
+  },
+  "member": {
+    "$oid": "67a3cc6a8c1e51f256c3ba4e"
+  },
+  "reservationDate": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "status": "rezerve edildi",
+  "loanDate": null,
+  "memberName": "Deneme Kullanıcısı",
+  "__v": 0
+}]

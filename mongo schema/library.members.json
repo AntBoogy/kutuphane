@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "67a3a59c43b5ef2f99a71b69"
+  },
+  "name": "Batuhan Aydın",
+  "email": "batuhan@abart.studio",
+  "membershipType": "genel üye",
+  "penalty": 0,
+  "password": "$2b$10$L2BSw5yovSV.sBbaToR3EOepB/UeMOyW1RVA6/3Rz0J.ByXL2SWvC",
+  "isAdmin": true,
+  "phone": "05375111349",
+  "tc": 11111111111,
+  "birthDate": {
+    "$date": "1999-07-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a3cc6a8c1e51f256c3ba4e"
+  },
+  "name": "Deneme Kullanıcısı",
+  "email": "deneme@kullanici.com",
+  "membershipType": "genel üye",
+  "penalty": 0,
+  "password": "$2b$10$znCwGsjILjojzKCkSls7mOZRRgjZWKbq7Upin4TwoWJADGvyfI1PS",
+  "isAdmin": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a4f710791bddd1ab38a689"
+  },
+  "name": "organizasyon",
+  "email": "organizasyon@abart.studio",
+  "membershipType": "öğretmen",
+  "penalty": 0,
+  "password": "$2b$10$mb/fO7OzGOEk1z6Kxy0iYueKpev.NqN/j8hM4EpXzucj/723a1mkW",
+  "isAdmin": false,
+  "__v": 0,
+  "birthDate": {
+    "$date": "2025-01-14T00:00:00.000Z"
+  },
+  "phone": "12312321",
+  "tc": 123123123
+},
+{
+  "_id": {
+    "$oid": "67a5451e235379e4f14651e5"
+  },
+  "name": "Admin Kullanıcısı",
+  "email": "admin@admin.com",
+  "membershipType": "genel üye",
+  "penalty": 0,
+  "password": "$2b$10$tXC320ZhhHN1D8aBhfAO1ek4kZ11Wc99z3l97vh6eMPfBrSUW9FJG",
+  "isAdmin": true,
+  "__v": 0
+}]
